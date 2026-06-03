@@ -1,6 +1,6 @@
-**Zadanie 2** Docker
+**Zadanie 2**
 
-Obraz: https://hub.docker.com/repository/docker/ktechnik/zadanie2/general
+[Link do obrazu](https://hub.docker.com/repository/docker/ktechnik/zadanie2/general)
 
 :white_check_mark: 3.0 Należy stworzyć kontroler do Produktów
 
@@ -11,3 +11,8 @@ Obraz: https://hub.docker.com/repository/docker/ktechnik/zadanie2/general
 :white_check_mark: 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok
 
 :x: 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUDs
+
+[Link do commita](https://github.com/Ktechnik12/Zadanie2/commit/04e8aaac76296c4ddf5fcd327b694db63c4eddc6)
+
+
+Nagranie:
