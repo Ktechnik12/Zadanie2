@@ -15,4 +15,4 @@
 [Link do commita](https://github.com/Ktechnik12/Zadanie2/commit/04e8aaac76296c4ddf5fcd327b694db63c4eddc6)
 
 
-Nagranie:
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCl89wKWtwfRblMFhBy4vLcAaihh67Lbhjf0kSjMjNIapk?e=9XWLf0)
